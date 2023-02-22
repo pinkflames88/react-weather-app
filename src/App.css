@@ -44,15 +44,14 @@ p:not(:last-child) {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  background-image: url("images/pink sun.jpg.jpg");
+  background-image: url("images/pink sun.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   padding: 35px;
-
   border: 2px solid rgba(42, 113, 219, 0.884);
   border-radius: 20px;
-  background-color: rgba(255, 255, 255, 0.575);
+  background-color:#EAC0EB;
   box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.25);
 
   backdrop-filter: blur(10px);
